@@ -1,12 +1,12 @@
 {
   "name": "@-amazeelabs/silverback_autosave",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "main": "index.js",
   "scripts": {
     "version": "sync-composer-version"
   },
   "devDependencies": {
-    "@amazeelabs/sync-composer-version": "1.1.4"
+    "@amazeelabs/sync-composer-version": "1.1.5"
   },
   "author": "Amazee Labs <development@amazeelabs.com>",
   "publishConfig": {
@@ -15,5 +15,5 @@
     "repository": "git@github.com:AmazeeLabs/silverback_autosave.git",
     "branch": "main"
   },
-  "gitHead": "4627ea2564cc56c1018e64ad4977a11d173c687d"
+  "gitHead": "41b9871a1f15c0f58cb2c54922cc0e636709e837"
 }
