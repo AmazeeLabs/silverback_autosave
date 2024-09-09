@@ -1,6 +1,6 @@
 {
   "name": "@-amazeelabs/silverback_autosave",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "main": "index.js",
   "scripts": {
     "version": "sync-composer-version"
@@ -15,5 +15,5 @@
     "repository": "git@github.com:AmazeeLabs/silverback_autosave.git",
     "branch": "main"
   },
-  "gitHead": "5b6c7d1babff3938f11cff866746d389544b508e"
+  "gitHead": "5f38ba39aad2d38e6fb326815ab518ad6f0a1afd"
 }
